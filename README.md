@@ -1,4 +1,4 @@
-# Este es mi Prrimer examen de Algoritmos sobre JavaScritp
+# Este es mi Prrimer examen de Algoritmos sobre JavaScript
 
 ## Espero mejorar a medida del tiempo
 
